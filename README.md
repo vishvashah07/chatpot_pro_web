@@ -73,6 +73,7 @@ python app.py
 
 
 Then open http://127.0.0.1:5000 in your browser
-<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/0f5f4345-98e5-4083-a1d4-aab301e418ed" />
+
+
 
 
