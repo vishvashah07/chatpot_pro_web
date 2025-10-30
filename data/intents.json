@@ -1,0 +1,24 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hello", "hi", "hey", "good morning", "good evening"],
+      "responses": ["Hi there! How can I help you today?", "Hey! How’s it going?", "Hello! 😊"]
+    },
+    {
+      "tag": "intro",
+      "patterns": ["who are you", "what is your name", "who made you"],
+      "responses": ["I’m ChatPot Pro, your intelligent assistant built with Python and Flask!"]
+    },
+    {
+      "tag": "abilities",
+      "patterns": ["what can you do", "your features", "what are your abilities", "how can you help me"],
+      "responses": ["I can chat using NLP, tell you the time/date, and soon — much more! 🚀"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["bye", "goodbye", "see you later"],
+      "responses": ["Goodbye! It was nice chatting with you 😊", "See you soon!"]
+    }
+  ]
+}
